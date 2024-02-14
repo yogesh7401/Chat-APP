@@ -1,0 +1,17 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chating app using socket.io",
+  "main": "index.js",
+  "author": "yogesh7401",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "socket.io": "^4.7.4"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
